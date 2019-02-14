@@ -1,6 +1,7 @@
 # cnode
 
-> a vue project
+> a vue project 
+预览链接 http://www.bamboo0612.online/cnode/dist/index.html#/
 
 ## Build Setup
 
