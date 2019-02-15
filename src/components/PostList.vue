@@ -20,7 +20,7 @@
                 <!-- 一定写key -->
             <img :src="post.author.avatar_url" alt="">  
              <!-- 一定要动态绑定 -->
-            <span>
+            <span class="allcount">
                 <span class="reply_count">{{post.reply_count}}</span>
                 /{{post.visit_count}}
             </span>
